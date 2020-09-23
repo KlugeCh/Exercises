@@ -11,20 +11,28 @@
 <h1>What's my goal?</h1>
 
 <h3>	1. Getting used to git as everyday working tool</h3>
-		* using it as often as possible
+		<ul>
+		<li>using it as often as possible</li>
+		</ul>
 	
 <h3>	2. Getting familiar with BASH</h3>
-		* being more productive on most OSs
+		<ul>
+		<li>being more productive on most OSs</li>
+		</ul>
 
 <h3>	3. Becoming a software developer</h3>
-		* learn and use code
-		* organize and plan projects
+		<ul>
+		<li>learn and use code></li>
+		<li>organize and plan projects</li>
+		</ul>
+<p>
 
+</p>
 
 
 ![Image of SpiderWare](https://github.com/KlugeCh/exercises/blob/master/spiderware.png)
 
-<h2> Not recommended:</h2>  [GFN](https://www.gfn.de/) <h2>!!</h2> 
+You are entering <a href="https://www.gfn.de/"> the danger zone </a>here!!
 	
 
 
