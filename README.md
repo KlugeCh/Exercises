@@ -1,7 +1,8 @@
 
 # What's this repo about?
 
-## In this repository i train basics of **git, BASH, and github 
+## In this repository i train basics of 
+**git, BASH, and github 
 *e.g.: cmd lines, commits, commit tree,..
 
 
