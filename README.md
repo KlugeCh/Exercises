@@ -1,40 +1,36 @@
 
-<h1>What's this repo about?</h1>
+# What's this repo about?
 
-<h3>In this repository i train basics of git, BASH, and github 
-	<i>e.g.: cmd lines, commits, commit tree,..</i></h3>
+## In this repository i train basics of **git, BASH, and github 
+*e.g.: cmd lines, commits, commit tree,..
 
 
 
-<h1>What's my goal?</h1>
+# What's my goal?
 
-<h3>1. Getting used to git as everyday working tool</h3>
-		<ul>
-		<li>using it as often as possible</li>
-		</ul>
+### 1. Getting used to git as everyday working tool
+
+* using it as often as possible
 	
-<h3>2. Getting familiar with BASH</h3>
-		<ul>
-		<li>being more productive on most OSs</li>
-		</ul>
+### 2. Getting familiar with BASH
 
-<h3>3. Becoming a software developer</h3>
-		<ul>
-		<li>learn and use code</li>
-		<li>organize and plan projects</li>
-		</ul>
-<p>
+* being more productive on most OSs
+		
 
-</p>
+### 3. Becoming a software developer
+		
+* learn and use code
+* organize and plan projects
+		
+
 
 
 ![Image of SpiderWare](https://github.com/KlugeCh/exercises/blob/master/spiderware.png)
-<p>
-<p>
-</p>
+
+
+
 If you're not into coding read further.
-You are entering <a href="https://www.gfn.de/"> the danger zone </a>here!!
-	
+You are entering [the danger zone](https://www.gfn.de/)	
 
 
 
